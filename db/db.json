@@ -1,0 +1,10 @@
+{
+  "authors": [
+    { "id": 1, "name": "Gabriel García Márquez" },
+    { "id": 2, "name": "Isabel Allende" }
+  ],
+  "books": [
+    { "id": 1, "title": "Cien años de soledad", "price": 20, "authorId": 1 },
+    { "id": 2, "title": "La casa de los espíritus", "price": 25, "authorId": 2 }
+  ]
+}
